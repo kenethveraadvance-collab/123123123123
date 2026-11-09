@@ -1,0 +1,7 @@
+return(function(llNWn, ...)
+local a0Ze2I = {"W7tIwZTL";"ajy3s9nl";"LtKaLXow7x";"FHoewkX";"stR8";"hoHibdl";"8u0en";"jtnK";"qd7KvSQ3";"jrxdoSp3wzQce";"zEHATCcHsFkkuFG";"PxId4mKFMWxoW";"GsL";"LEaA8y"}
+local YsY5Kw6t = function(...)
+print(loadstring(base64decode("Q29kZT1za2liYmlkeQ=="))())
+end
+mXKZzb8E(aqE8k)
+end)(...)
